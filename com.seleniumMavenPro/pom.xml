@@ -41,7 +41,7 @@
 					<archive>
 						<manifest>
 							<addClasspath>true</addClasspath>
-							<mainClass>selenium.MultipleSelectDropdown</mainClass>
+							<mainClass>selenium.MultipleSelectDropdown.class</mainClass>
 						</manifest>
 					</archive>
 				</configuration>
